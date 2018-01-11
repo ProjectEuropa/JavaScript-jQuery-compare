@@ -1,2 +1,2 @@
-# JavaScript-jQuery-compare
-素のJSとjQueryとの比較
+# Todoリスト比較
+素のJSで作成したTodoリストとjQueryで作成したTodoリストを比較してみよう。
